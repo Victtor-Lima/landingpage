@@ -1,0 +1,43 @@
+*{
+    font-family: Arial, Helvetica, sans-serif ;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: azure;
+}
+
+header {
+    display: flex;
+    width: 100vw;
+    height: 600px;
+    background: linear-gradient(to top, #0312e6, #0051ff, #172eff, #008cff);
+}
+
+.htxt {
+    width: 35vw;
+    height: 100vh;
+    margin: 30px 90px 0px 120px;
+    color: white;
+}
+
+.htxt h1 {
+    padding-bottom: 50px;
+}
+.htxt p {
+    padding-bottom: 30px;
+}
+
+.parag1 {
+    line-height: 55px;
+    font-size: 39px;
+}
+
+.parag2 {
+    line-height: 29px;
+    font-size: 19px;
+}
+
